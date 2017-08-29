@@ -23,3 +23,4 @@ CREATE TABLE `user` (
   UNIQUE KEY `username` (`user_name`),
   UNIQUE KEY `email` (`email`)
 ) ENGINE=InnoDB AUTO_INCREMENT=15 DEFAULT CHARSET=utf8;
+格式必须符合事实
